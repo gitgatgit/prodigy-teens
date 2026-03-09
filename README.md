@@ -125,6 +125,7 @@ The pipeline produces:
 - **Comparative analysis**: Mexico vs. OECD countries
 
 ---
+Transparency International Corruption Perception Index table: https://www.transparency.org/en/cpi/2025
 
 ## 🧪 Running Tests
 
